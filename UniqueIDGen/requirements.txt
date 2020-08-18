@@ -1,0 +1,11 @@
+alembic
+SQLAlchemy
+psycopg2-binary
+SQLAlchemy-Utils
+pytest
+pytest-cov
+coverage
+
+# pip install SQLAlchemy==1.3.18
+# pip install SQLAlchemy-Utils==0.36.6
+# pip install psycopg2-binary==2.7.7
